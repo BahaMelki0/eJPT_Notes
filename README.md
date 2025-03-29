@@ -11,7 +11,7 @@ Enjoy and == **H4ppЧ H4ck1ng** == ☠️👨‍💻
 
 ---
 
-> ⚠️ **NB 1.0**: eJPT is a hands-on exam — reviewing notes alone won’t be enough, especially if you’re new to pentesting. PRACTICE is 🔑 (I'll drop some labs and platforms below).  
+> ⚠️ **NB 1.0**: eJPT is a hands-on exam — reviewing notes alone won’t be enough, especially if you’re new to pentesting. PRACTICE is 🔑.  
 > 🚫 **NB 2.0**: Never hack any system without **explicit written permission**.  
 > 🔒 **NB 3.0**: These notes are **strictly private** — do not republish them. Some content mirrors the INE course material and must not be shared publicly.
 
