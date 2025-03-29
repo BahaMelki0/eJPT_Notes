@@ -1,84 +1,61 @@
+# 🧠 eJPT Notes by K4v0r1_0x
+
+👋 Welcome readers,
+
+I am **K4v0r1_0x** and this is my personal vault of notes for prepping the **eLearnSecurity Junior Penetration Tester (eJPT)** certification. 🕵️‍♂️💻  
+These notes follow the same structure used in the official **INE course** and aim to be concise, practical, and easy to revise.
+
+Hope they make some sense and help you crush the exam. 💪
+
+Enjoy and == **H4ppЧ H4ck1ng** == ☠️👨‍💻
 
 ---
 
-Welcome readers, I am K4v0r1_0x and in here you can find all of my notes for the eJPT certification prep. I'll be using the same structure for these notes as the one used in the official course by INE.
+> ⚠️ **NB 1.0**: eJPT is a hands-on exam — reviewing notes alone won’t be enough, especially if you’re new to pentesting. PRACTICE is 🔑 (I'll drop some labs and platforms below).  
+> 🚫 **NB 2.0**: Never hack any system without **explicit written permission**.  
+> 🔒 **NB 3.0**: These notes are **strictly private** — do not republish them. Some content mirrors the INE course material and must not be shared publicly.
 
-Hope this makes some sense for you and helps you nail the exam.
+---
 
-Enjoy and ==H4ppЧ H4ck1ng==.
+## 🗂️ Structure of the Notes
 
-NB 1.0: Since eJPT is a practical exam, just reviewing these notes won't be sufficient (especially if you're a beginner), so you'll probably need to practice a lot (I'll provide some resources later on).
+### 📌 1 - Assessment Methodologies:
+- 📡 Information Gathering  
+- 🌐 Footprinting & Scanning  
+- 🔍 Enumeration  
+- ⚙️ Vulnerability Assessment  
 
-NB 2.0: Don't try to hack systems without written permission from their owners!!
+### 🖥️ 2 - Host & Networking Auditing:
+- 🧾 Auditing Fundamentals  
 
-NB 3.0: These notes are strictly private and cannot/should not be published by any user (because technically they include course material from the official course which shouldn't be shared publicly).
+### 💥 3 - Host & Network Penetration Testing:
+- 🧠 System-Host Based Attacks  
+- 🌐 Network Based Attacks  
+- 🔫 The Metasploit Framework  
+- 💣 Exploitation  
+- 🕵️ Post-Exploitation  
+- 🎭 Social Engineering  
 
-The structure of these notes is as follows:
+### 🌐 4 - Web Application Penetration Testing:
+- 🌍 Introduction to the Web & HTTP Protocol  
 
-1 - Assessment Methodologies:
+---
 
-- [[Information Gathering]]
-    
-- [[Footprinting & Scanning]]
-    
-- [[Enumeration]]
-    
-- [[Vulnerability Assessment]]
-    
+## 🔗 Resources
 
-2 - Host & Networking Auditing:
-
-- [[Auditing Fundamentals]]
-    
-
-3 - Host & Network Penetration Testing:
-
-- [[System-Host based Attacks]]
-    
-- [[Network Based Attacks]]
-    
-- [[The Metasploit Framework]]
-    
-- [[Exploitation]]
-    
-- [[Post-Exploitation]]
-    
-- Social Engineering
-    
-
-4 - Web Application Penetration Testing:
-
-- [[Introduction to the Web&HTTP Protocol]]
-    
-
-Resources:
-
-- https://hacktricks.boitatech.com.br/pentesting/pentesting-smb
-    
-- https://medium.com/@polygonben/ejpt-a-guide-on-how-to-pass-first-time-f8cec3f79a73
-    
-- https://hacktricks.boitatech.com.br/pentesting/137-138-139-pentesting-netbios
-    
-- https://gtfobins.github.io/#
-    
-- https://medium.com/@rajeevranjancom/powershell-empire-ce74c7e6846c
-    
-- https://book.hacktricks.xyz/ — Full handbook of hacking tricks and techniques (constantly updated)
-    
-- https://www.hackingarticles.in/ — A collection of hands-on tutorials across all phases of pentesting
-    
-- https://www.metasploitunleashed.com/ — Deep dive into Metasploit Framework usage
-    
-- https://tryhackme.com/room/ejpt — TryHackMe’s official eJPT prep room
-    
-- https://www.revshells.com/ — Reverse shell generator for multiple languages and environments
-    
-- https://payloadsallthethings.com/ — A curated list of useful payloads and bypasses
-    
-- https://github.com/carlospolop/PEASS-ng — Windows and Linux privilege escalation checklists and scripts
-    
-- https://pentestmonkey.net/ — Great cheat sheets and tips for web and shell exploitation
-    
-- https://owasp.org/www-project-top-ten/ — OWASP Top 10 web application security risks
+- 🧠 [HackTricks SMB Pentesting](https://hacktricks.boitatech.com.br/pentesting/pentesting-smb)  
+- 📝 [eJPT First-Time Guide by PolygonBen](https://medium.com/@polygonben/ejpt-a-guide-on-how-to-pass-first-time-f8cec3f79a73)  
+- 📡 [NetBIOS Pentesting](https://hacktricks.boitatech.com.br/pentesting/137-138-139-pentesting-netbios)  
+- 🧨 [GTFOBins](https://gtfobins.github.io/#)  
+- 🎯 [PowerShell Empire Guide](https://medium.com/@rajeevranjancom/powershell-empire-ce74c7e6846c)  
+- 📘 [HackTricks Book](https://book.hacktricks.xyz/)  
+- 🧪 [Hacking Articles](https://www.hackingarticles.in/)  
+- 🔍 [Metasploit Unleashed](https://www.metasploitunleashed.com/)  
+- 🧠 [TryHackMe: eJPT Room](https://tryhackme.com/room/ejpt)  
+- 🔁 [Reverse Shell Generator](https://www.revshells.com/)  
+- 🎯 [Payloads All The Things](https://payloadsallthethings.com/)  
+- 🔧 [PEASS-ng Privilege Escalation Toolkit](https://github.com/carlospolop/PEASS-ng)  
+- 🧾 [PentestMonkey Cheatsheets](https://pentestmonkey.net/)  
+- 🔐 [OWASP Top 10](https://owasp.org/www-project-top-ten/)  
 
 ---
