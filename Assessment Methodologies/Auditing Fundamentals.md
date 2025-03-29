@@ -6,10 +6,6 @@ Security auditing is a systematic process for evaluating and verifying an organi
 **Key Benefits:**  
 Security audits help in identifying vulnerabilities, ensuring regulatory compliance, enhancing risk management, refining security policies and procedures, supporting business objectives, and promoting continuous improvement.
 
-**Essential Terminology:**  
-![[Auditing Terminology.png]]  
-![[Auditing Terminology 2.0.png]]
-
 **Auditing Lifecycle:**
 
 1. **Planning and Preparation:** Define audit goals, scope, and the systems/processes to be reviewed; gather documentation; establish the audit team and schedule.
@@ -20,16 +16,12 @@ Security audits help in identifying vulnerabilities, ensuring regulatory complia
 6. **Reporting:** Document findings, offer recommendations, and present the results.
 7. **Remediation:** Develop and implement remediation plans, conduct follow-up audits, and continuously monitor improvements.
 
-![[Security Auditing lifecycle.png]]
 
 **Types of Security Audits:**  
 Security audits can be categorized by scope, methodology, and organizational focus.  
-![[Types of Security Audits.png]]  
-![[Types of security audits 2.0.png]]
 
 **Security Auditing & Penetration Testing:**  
 While security audits assess controls and overall security posture, penetration testing focuses on actively exploiting vulnerabilities. Common practice is to perform a security audit first and then conduct a penetration test, though both can be integrated into a combined approach.  
-![[Security audit vs pentest.png]]
 
 ---
 
