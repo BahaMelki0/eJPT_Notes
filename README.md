@@ -3,7 +3,7 @@
 👋 Welcome readers,
 
 I am **K4v0r1_0x** and this is my personal vault of notes for prepping the **eLearnSecurity Junior Penetration Tester (eJPT)** certification. 🕵️‍♂️💻  
-These notes follow the same structure used in the official **INE course** and aim to be concise, practical, and easy to revise.
+These notes follow the same structure used in the official **penetration testing student path** by **INE** and aim to be concise, practical, and easy to revise.
 
 Hope they make some sense and help you crush the exam. 💪
 
